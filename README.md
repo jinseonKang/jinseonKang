@@ -9,6 +9,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=boicekjs)](https://solved.ac/boicekjs/)
 
+
 ### ![jinseonKang's github stats](https://github-readme-stats.vercel.app/api?username=jinseonKang&show_icons=true)
 
 </div>
